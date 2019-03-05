@@ -1,4 +1,4 @@
-# textgenrnn_wrapper
+# textgenrnn_wrapper 
 A python wrapper for textgenrnn to manage saved files
 
 For more extensive documentation, see textgenrnn: https://github.com/minimaxir/textgenrnn
